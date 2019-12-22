@@ -2,5 +2,5 @@
 Total: 79
  - Easy: 25
  - Medium: 43
- - Hard: 111
+ - Hard: 11
 
