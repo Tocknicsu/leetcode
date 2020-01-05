@@ -1,6 +1,6 @@
 # Problems
-Total: 101
- - Easy: 34
- - Medium: 53
+Total: 115
+ - Easy: 42
+ - Medium: 59
  - Hard: 14
 
